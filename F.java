@@ -37,6 +37,7 @@ public class F implements K, H {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+<<<<<<< HEAD
 
     public java.lang.Class qq() {
         return getClass();
@@ -54,4 +55,6 @@ public class F implements K, H {
         System.out.println();
     }
 >>>>>>> develop
+=======
+>>>>>>> feature
 }

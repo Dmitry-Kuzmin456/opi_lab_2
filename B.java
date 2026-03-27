@@ -37,6 +37,7 @@ public class B implements K, H {
     public java.lang.Class qq() {
         return getClass();
     }
+<<<<<<< HEAD
 
     public double ad() {
         return 12.12;
@@ -54,4 +55,6 @@ public class B implements K, H {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 >>>>>>> develop
+=======
+>>>>>>> feature
 }
