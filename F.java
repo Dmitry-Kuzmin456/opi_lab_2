@@ -31,4 +31,24 @@ public class F implements K, H {
     public int af() {
         return -1;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public double ee() {
+        return 0.000001;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
 }
