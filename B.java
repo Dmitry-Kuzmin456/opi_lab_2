@@ -47,4 +47,8 @@ public class B implements K, H {
     public float ff() {
         return 0;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }
