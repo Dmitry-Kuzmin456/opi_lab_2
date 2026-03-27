@@ -31,4 +31,8 @@ public class B implements K, H {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
