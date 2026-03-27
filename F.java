@@ -43,4 +43,8 @@ public class F implements K, H {
     public double ee() {
         return 0.000001;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
