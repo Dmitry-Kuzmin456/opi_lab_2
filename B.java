@@ -39,4 +39,8 @@ public class B implements K, H {
     public double ad() {
         return 12.12;
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
