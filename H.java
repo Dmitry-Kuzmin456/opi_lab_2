@@ -1,10 +1,6 @@
-public class H extends null {
+public interface H {
 
     long ac();
 
     java.util.List<String> jj();
-
-    public String nn() {
-        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
-    }
 }
