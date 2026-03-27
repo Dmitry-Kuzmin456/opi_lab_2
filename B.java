@@ -43,4 +43,8 @@ public class B implements K, H {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public float ff() {
+        return 0;
+    }
 }
