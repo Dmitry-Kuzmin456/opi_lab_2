@@ -35,4 +35,8 @@ public class B implements K, H {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public double ad() {
+        return 12.12;
+    }
 }
