@@ -39,4 +39,8 @@ public class F implements K, H {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
