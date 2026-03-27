@@ -27,16 +27,4 @@ public class F implements K, H {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
-
-    public int af() {
-        return -1;
-    }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }
