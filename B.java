@@ -31,4 +31,27 @@ public class B implements K, H {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+<<<<<<< HEAD
+=======
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public double ad() {
+        return 12.12;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+>>>>>>> develop
 }
