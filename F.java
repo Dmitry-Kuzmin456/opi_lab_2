@@ -47,4 +47,8 @@ public class F implements K, H {
     public Object rr() {
         return null;
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
