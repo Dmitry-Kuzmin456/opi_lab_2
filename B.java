@@ -51,4 +51,5 @@ public class B implements K, H {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
 }
