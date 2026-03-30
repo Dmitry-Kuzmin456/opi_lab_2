@@ -1,10 +1,6 @@
-public class K extends null {
+public interface K {
 
     java.util.Random mm();
 
     int ae();
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }

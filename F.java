@@ -1,4 +1,4 @@
-public class F extends null implements K, H {
+public class F implements K, H {
 
     private double a = 100.500;
 
@@ -30,33 +30,5 @@ public class F extends null implements K, H {
 
     public int af() {
         return -1;
-    }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
-
-    public String kk() {
-        return "Hello world";
-    }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
-    }
-
-    public void bb() {
-        System.out.println(getClass().getName());
-    }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
-
-    public Object pp() {
-        return this;
-    }
-
-    public int cc() {
-        return 13;
     }
 }
