@@ -1,4 +1,4 @@
-public class B implements K, H {
+public class B extends null implements K, H {
 
     private byte k = 1;
 
@@ -28,27 +28,35 @@ public class B implements K, H {
         return new java.util.LinkedList<String>();
     }
 
-    public int[] ii() {
-        return new int[]{4, 3, 2, 1};
-    }
-
     public java.lang.Class qq() {
         return getClass();
     }
 
-    public double ad() {
-        return 12.12;
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public Object pp() {
+        return this;
     }
 
     public void bb() {
         System.out.println(getClass().getName());
     }
 
-    public float ff() {
-        return 0;
+    public byte oo() {
+        return 4;
     }
 
-    public String nn() {
-        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    public Object rr() {
+        return null;
+    }
+
+    public float ff() {
+        return 0;
     }
 }

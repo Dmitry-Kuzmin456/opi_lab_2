@@ -1,4 +1,4 @@
-public class F implements K, H {
+public class F extends null implements K, H {
 
     private double a = 100.500;
 
@@ -28,6 +28,10 @@ public class F implements K, H {
         return new java.util.LinkedList<String>();
     }
 
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
     public int af() {
         return -1;
     }
@@ -35,19 +39,32 @@ public class F implements K, H {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
     public java.lang.Class qq() {
         return getClass();
     }
 
+    public Object pp() {
+        return this;
+    }
+
+    public int cc() {
+        return 13;
+    }
+
     public double ee() {
-        return 0.000001;
+        return 100.500;
     }
 
-    public Object rr() {
-        return null;
-    }
-
-    public void ab() {
-        System.out.println();
+    public long dd() {
+        return 33;
     }
 }
